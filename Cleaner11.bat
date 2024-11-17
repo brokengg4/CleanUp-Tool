@@ -1,4 +1,5 @@
 @echo off
+mode 102,30
 Title Cleaner
 color A
 echo.
@@ -3784,6 +3785,7 @@ cls
 
 cls
 @echo off
+mode 116,29
 title CleaningTool For Optimizing By - GMbotexe
 chcp 65001 >nul
 goto banner
